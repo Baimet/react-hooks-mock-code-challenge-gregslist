@@ -44,6 +44,7 @@ header h1 {
   border: 1px solid #ccc;
   border-radius: 3px;
   padding-left: 0.5rem;
+  color:black;
 }
 
 .searchbar button {
