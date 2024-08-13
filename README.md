@@ -18,4 +18,4 @@ gregslist is a simple web application where users can browse, search, favorite, 
 
 ## Hosting
 
--
+- https://greglist.netlify.app/
